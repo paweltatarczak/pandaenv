@@ -1,0 +1,10 @@
+commit 17bf7252bcc1c5919f117482a0c962842c7eb7ba
+tree ec4067506aed38b5574a78bbf624574b860fb937
+parent 57672bf6adceea48b86562e4a9f97fe1dd031289
+author pawel <pawel@pawel.pl> 2021-03-02 19:12:11 +0000
+committer pawel <pawel@pawel.pl> 2021-03-02 19:12:11 +0000
+
+    changing server
+
+
+:100644 100644 4722692defeec1f062c42a1ae3b867987f17e181 aa741c2baf62469fe1d776d1bb1012185316ecfb M	src/test/java/pl/pandait/panda/PandaApplicationSeleniumTest.java

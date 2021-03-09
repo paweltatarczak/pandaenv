@@ -1,0 +1,16 @@
+endpoints:
+  - paths:
+      - match: /event/(.*)
+        replace: /$1
+    port: 8061
+    protocol: 1
+  - paths:
+      - match: /com\.jfrog\.event\..*
+        replace: ""
+    port: 8062
+    protocol: 2
+healthcheckendpoint:
+    path: /api/v1/system/ping
+    port: 8061
+nodeid: d24c97694a7a
+serviceid: jfevt@01ezfha4frb4q00nh5xqp613j2

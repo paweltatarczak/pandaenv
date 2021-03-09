@@ -1,0 +1,29 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-02-26 14:55:18.862 UTC</timestamp>
+  <md5sum>81d346eaca997b090efba432fa29a85b</md5sum>
+  <fileName>Credential id=GitHubToken name=pawel/****** (Git Hub Token (Repo / Packages/ RepoHook))</fileName>
+  <usages>
+    <entry>
+      <string>CICD2slave</string>
+      <ranges>1-3</ranges>
+    </entry>
+    <entry>
+      <string>Szymon</string>
+      <ranges>1-8</ranges>
+    </entry>
+    <entry>
+      <string>Szymon2</string>
+      <ranges>1-11</ranges>
+    </entry>
+    <entry>
+      <string>porttest</string>
+      <ranges>1-2</ranges>
+    </entry>
+    <entry>
+      <string>CodePull</string>
+      <ranges>1-20</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,10 @@
+commit 122c913698a2f479fc306f930656c1aa3c3f64f9
+tree 5da241e60d14bb7cbc764bfe212527e9c5c3c431
+parent 03f3a9ed0de8ca1ac26495f685afc393348f70a5
+author pawel <pawel@pawel.pl> 2021-03-02 20:34:51 +0000
+committer pawel <pawel@pawel.pl> 2021-03-02 20:34:51 +0000
+
+    selenium test, server changed
+
+
+:100644 100644 633fb0dc1ad7d194ae732f7f47aadf212f3bbfc9 e28a6101085ccaae974f1976ed3750fbe70bffe6 M	src/test/java/pl/pandait/panda/PandaApplicationSeleniumTest.java

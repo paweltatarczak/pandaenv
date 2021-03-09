@@ -1,0 +1,10 @@
+commit d74d4b80984f5f6c72ca9020f2e198ba750c9291
+tree 492e9357875923877d42207c7f7d528eb91140d7
+parent 7376edaa3b7c8119fa152a465493aff5901dbaf2
+author pawel <pawel@pawel.pl> 2021-03-02 10:51:04 +0000
+committer pawel <pawel@pawel.pl> 2021-03-02 10:51:04 +0000
+
+    profiles added to pom.xml
+
+
+:100644 100644 e0c996b759174b9da515728411ab31f2473ffc10 9d6f7b6b31b8bf87c86b94a7fcc2b9e7304b6cd6 M	pom.xml

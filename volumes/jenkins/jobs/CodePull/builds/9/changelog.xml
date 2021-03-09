@@ -1,0 +1,10 @@
+commit 7376edaa3b7c8119fa152a465493aff5901dbaf2
+tree 7b6b4b6e64ccfd4bfde765356058d52930f7b193
+parent f241f256da02c35005aff605d97ade22a8ba922d
+author pawel <pawel@pawel.pl> 2021-03-01 18:13:28 +0000
+committer pawel <pawel@pawel.pl> 2021-03-01 18:13:28 +0000
+
+    zmiana portu aplikacji z 8080 na 8090
+
+
+:100644 100644 4c00e40debf74912d9b7c8da72b78461cde4dd86 f620381b549eeb0c0e3db230b6b144edb4deef06 M	src/main/resources/application.properties
